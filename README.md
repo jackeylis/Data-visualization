@@ -20,5 +20,3 @@ npm run build
 npm run build --report
 ```
 ## 三个大屏模板 样式还是比较全的 包括世界地图、中国地图、canvas转盘等
-
-作者jackeylis
