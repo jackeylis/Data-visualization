@@ -4,7 +4,7 @@
 数据可视化
 ## 项目预览地址
 https://bym110.github.io/vue-echarts/preview
-## Build Setup
+## 项目部署步骤
 
 ``` bash
 # install dependencies
@@ -20,4 +20,5 @@ npm run build
 npm run build --report
 ```
 ## 三个大屏模板 样式还是比较全的 包括世界地图、中国地图、canvas转盘等
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+作者jackeylis
